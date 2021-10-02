@@ -17,7 +17,7 @@ public:
                 }
             }
         }
-        return c[1][n];
         
+        return c[1][n];
     }
 };
