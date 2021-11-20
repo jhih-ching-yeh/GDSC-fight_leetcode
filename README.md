@@ -1,4 +1,4 @@
-# Leetcode Project
+# Fight_Leetcode Project
 This is the teaching project of Leetcode by Sunny and the programming language is C++.
 
 Also, you can see the teaching materials at Instagram @fight_leetcode.
